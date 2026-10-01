@@ -22,7 +22,9 @@ Kubernetes deployment startegies with examples
 
 <img width="687" height="405" alt="image" src="https://github.com/user-attachments/assets/31012d4a-5a07-4320-9051-62c4c9a0d2fb" />
 
-<img width="541" height="402" alt="image" src="https://github.com/user-attachments/assets/522ba5b0-62fe-4d9d-bff0-f10ef5680120" />
+
+<img width="527" height="402" alt="image" src="https://github.com/user-attachments/assets/bb6871f9-66dc-4e9f-80bd-1ae2a761030a" />
+
 
 
 #### For more information about the rolling update, checkout the below blog 
