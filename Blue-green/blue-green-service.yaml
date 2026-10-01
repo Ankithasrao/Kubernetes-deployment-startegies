@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     app: myapp
-    version: blue
+    version: blue  // For the green deployment, the selector (Ideally the LB) should point to green deploymeny manifest
   ports:
     - port: 80
       targetPort: 80
