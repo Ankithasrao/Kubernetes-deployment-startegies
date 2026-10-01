@@ -22,6 +22,9 @@ Kubernetes deployment startegies with examples
 
 <img width="687" height="405" alt="image" src="https://github.com/user-attachments/assets/31012d4a-5a07-4320-9051-62c4c9a0d2fb" />
 
+<img width="541" height="402" alt="image" src="https://github.com/user-attachments/assets/522ba5b0-62fe-4d9d-bff0-f10ef5680120" />
+
+
 #### For more information about the rolling update, checkout the below blog 
 
 ### https://medium.com/@ankithabg4/canary-deployment-strategy-in-kubernetes-d1672036eab6
