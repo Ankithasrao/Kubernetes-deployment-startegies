@@ -9,6 +9,9 @@ Kubernetes deployment startegies with examples
 
 <img width="735" height="647" alt="image" src="https://github.com/user-attachments/assets/d3f5d4b0-4480-44a5-891c-0dfc27131812" />
 
+<img width="350" height="435" alt="image" src="https://github.com/user-attachments/assets/e9f8b11d-0158-4f54-812a-00b4597c14b8" />
+
+
 #### For more information about the rolling update, checkout the below blog 
 
 ### https://medium.com/@ankithabg4/rolling-update-deployment-strategy-in-kubernetes-46f3cc5fdb9e
